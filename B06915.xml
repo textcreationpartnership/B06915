@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I will perswade him thus and say, a last time that you together lay ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06915</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[480]</idno>
+            <idno type="EEBO-CITATION">99887557</idno>
+            <idno type="PROQUEST">ocm99887557</idno>
+            <idno type="VID">183170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183170)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[254])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>I will perswade him thus and say, a last time that you together lay ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for A. M. and sold by the booksellers of London.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Verse: "I will perswade him thus and say ..."</note>
+                  <note>Imperfect: cropped at head with loss of title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183170:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <gap reason="missing" resp="#UOM" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I Will perſwade him thus and ſay,</l>
+               <l>Laſt time that you together lay,</l>
+               <l>the Moon it was Eclipſed ſtrange,</l>
+               <l>And nature did her courſes change,</l>
+               <l>
+                  <hi>Mars</hi> by Dame <hi>Venus</hi> was beguil'd,</l>
+               <l>And ſo your wife got you with child.</l>
+            </lg>
+            <lg>
+               <l>this bargain made brought much content</l>
+               <l>Home in all haſte the farmer went;</l>
+               <l>And told his wife ſo ſtrange a tale,</l>
+               <l>As make her Countenance look pale;</l>
+               <l>Dear wife quoth he I am perplext,</l>
+               <l>Never was man before ſo vext.</l>
+            </lg>
+            <lg>
+               <l>I am intumbered with great pains,</l>
+               <l>from top to toe through all my veins;</l>
+               <l>My back and ſides grieve me ſo ſore,</l>
+               <l>Such pains I never felt before:</l>
+               <l>But yet the greateſt pain I tell ye.</l>
+               <l>Lies rumbling up &amp; down my belly.</l>
+            </lg>
+            <lg>
+               <l>Husband quoth ſhe I can you tell,</l>
+               <l>Of one that ſoon can make you well,</l>
+               <l>He cures as I do underſtand,</l>
+               <l>All diſeaſes that he takes in hand;</l>
+               <l>And if you pleaſed have it ſo,</l>
+               <l>Ile to him with y<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r water go.</l>
+            </lg>
+            <lg>
+               <l>Next morning with a good intent,</l>
+               <l>the good-wife to the Doctor went:</l>
+               <l>and ſhews to im her Husbands water,</l>
+               <l>Now mark th ieſt that follows after:</l>
+               <l>Cox body quoth <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Doctor mild,</l>
+               <l>thy Husband s<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ly is with Child.</l>
+            </lg>
+            <lg>
+               <l>the vvoman ſhe <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>s much amaz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</l>
+               <l>And on the D<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> ſtrangely gaz'd;</l>
+               <l>Good Sir in ki<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs novv tell me,</l>
+               <l>Hovv ſuch thins in a man may be?</l>
+               <l>I vvill, quoth he make you no doubt,</l>
+               <l>And time at <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſt vvill bring it out.</l>
+            </lg>
+            <lg>
+               <l>VVhen <hi>Luna</hi> laſt was in the Eclips,</l>
+               <l>You with your Husband joined Lips,</l>
+               <l>Then <hi>Jupiter</hi> being wrapt in thunder,</l>
+               <l>turn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>Venus</hi> up while <hi>Mars</hi> lay under</l>
+               <l>By which Coniunction well I wot,</l>
+               <l>Your husband then with child was got.</l>
+            </lg>
+            <lg>
+               <l>Alas, alas, then ſaid his wife,</l>
+               <l>Is there no means to ſave his life?</l>
+               <l>I would not for a thouſand pound,</l>
+               <l>My husband he ſhould fall to th' Ground,</l>
+               <l>Faith quoth the Doctor there is none,</l>
+               <l>No ways to ſave his life but one.</l>
+            </lg>
+            <lg>
+               <l>Kind loving Sir, then anſwered ſhe,</l>
+               <l>If you will be ſo good to me,</l>
+               <l>to tell how I his life may ſave,</l>
+               <l>I'll give whatever you will have:</l>
+               <l>No coſt nor pains that I will ſpare,</l>
+               <l>to ſave his life whom I love ſo dear:</l>
+            </lg>
+            <lg>
+               <l>But firſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he, ile have you ſwear,</l>
+               <l>And alſo have a ſpecial care,</l>
+               <l>to let no body know while you live,</l>
+               <l>What Phyſick he is to receive;</l>
+               <l>She ſtraightway <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound it with an Oath,</l>
+               <l>Ile keep your Counſel by my troth.</l>
+            </lg>
+            <lg>
+               <l>then mark me well whats to be done,</l>
+               <l>Each night hour ſetting of the Sun,</l>
+               <l>His Supper then you muſt provide,</l>
+               <l>Of eggs, and ſome choice meats beſide:</l>
+               <l>And for to ſtrengthen his weak <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack</l>
+               <l>You muſt give him a pint of Sack.</l>
+            </lg>
+            <lg>
+               <l>Which being done, put him to bed,</l>
+               <l>and lay ſoft Pillovvs under his head;</l>
+               <l>then make for him a Poſſet fine,</l>
+               <l>With Sugar and ſvveet muskadine;</l>
+               <l>Commixt vvith Cinnamon and mace,</l>
+               <l>And let him svvallovv it dovvn apace.</l>
+            </lg>
+            <lg>
+               <l>When he hath ſlept an hour or tvvain,</l>
+               <l>then you muſt came to him again,</l>
+               <l>And bring vvith you a luſty maid,</l>
+               <l>vvhich to his belly muſt be laid:</l>
+               <l>So let them merrily ſleep together,</l>
+               <l>and lovingly embrace each other.</l>
+            </lg>
+            <lg>
+               <l>this courſe you muſt for 3 weeks take,</l>
+               <l>And then beſure that it will make,</l>
+               <l>the pain too from his back and ſide,</l>
+               <l>the maid the torment ſhall abide,</l>
+               <l>And afterwards in little ſpace,</l>
+               <l>She vvill bring forth a babe of Grace.</l>
+            </lg>
+            <lg>
+               <l>And when the maid is brought to bed,</l>
+               <l>Your ſelf muſt lie down in her ſtead;</l>
+               <l>And becauſe nothing muſt he known,</l>
+               <l>Folks muſt believe the Childs your own,</l>
+               <l>Beſure to take this courſe ſaid he,</l>
+               <l>So ſhall your Husband <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed be.</l>
+            </lg>
+            <lg>
+               <l>the woman having heard this news,</l>
+               <l>Ran home in haſte how could ſhe chuſe</l>
+               <l>Where ſhe did ſee her husband lie,</l>
+               <l>Like one juſt ready for to die:</l>
+               <l>then preſently ſhe did unfold,</l>
+               <l>All that the Doctor had her told.</l>
+            </lg>
+            <lg>
+               <l>Alas quoth he ſuch pangs I have,</l>
+               <l>there is no means my life to ſave;</l>
+               <l>Vnleſs you do a Poſſet make,</l>
+               <l>to cure my belly of the ake:</l>
+               <l>Wherefore the woman out of hand</l>
+               <l>Did as the Doctor did command.</l>
+            </lg>
+            <lg>
+               <l>A Supper of moſt dainty meat</l>
+               <l>She made him ready for to eat;</l>
+               <l>And becauſe he ſhould no Phyſick lack,</l>
+               <l>She after Supper gave him Sack;</l>
+               <l>then kept him warm within his bed,</l>
+               <l>And with ſweet Poſſet ſhe him fed.</l>
+            </lg>
+            <lg>
+               <l>this being done, vvith <hi>Cupids</hi> aid,</l>
+               <l>she got the good vvill of her maid,</l>
+               <l>to lye and keep her maſter vvarm,</l>
+               <l>and ſaid, he ſhould do her no harm,</l>
+               <l>the maid at firſt ſeem'd loath to do,</l>
+               <l>But at the laſſ yielded thereto.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And as the Doctor did foretell,</hi>
+               </l>
+               <l>
+                  <hi>So every thing in order fell,</hi>
+               </l>
+               <l>
+                  <hi>the maid in time was brought to bed,</hi>
+               </l>
+               <l>
+                  <hi>the good wife lay down in her ſtead:</hi>
+               </l>
+               <l>
+                  <hi>the man was of his burthen eas'd,</hi>
+               </l>
+               <l>
+                  <hi>the child at Nurſe, and all are pleas'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You that theſe verſes hear or read,</l>
+               <l>If of this Doctor you ſtand in need,</l>
+               <l>Enquire him out where he doth dwell,</l>
+               <l>
+                  <hi>And ſurely he will uſe you well,</hi>
+               </l>
+               <l>He'l <hi>give you Phyſick to your mind,</hi>
+               </l>
+               <l>
+                  <hi>So that your purſes be well lin'd.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by and for <hi>A. M.</hi> and ſold by the Bookſellers of <hi>London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
